@@ -1,0 +1,28 @@
+﻿  Algorithm.cpp
+  BranchAndBound.cpp
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\Algorithm.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(21,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+  BruteForce.cpp
+  Dynamic.cpp
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\BranchAndBound.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\Dynamic.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\Dynamic.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+  PathTester.cpp
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\Dynamic.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  PeaProjekt.cpp
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\PathTester.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Mikolaj\Desktop\PEA\PeaProjekt\PeaProjekt.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+  PeaProjekt.vcxproj -> C:\Users\Mikolaj\Desktop\PEA\Debug\PeaProjekt.exe
